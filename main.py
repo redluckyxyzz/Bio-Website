@@ -397,7 +397,7 @@ input, select { width: 100%; padding: 12px; margin-top: 8px; border-radius: 60px
 <!-- ===== CAPTCHA OVERLAY - ALWAYS SHOWN ON PAGE LOAD ===== -->
 <div id="captchaOverlay">
     <div class="captcha-box">
-        <img src="https://i.ibb.co/v4pcW0kQ/e85dfef30d82.png" alt="Logo">
+        <img src="https://i.ibb.co/mFXZW6pB/file-000000003c5c82118bd70d4024da7486.png" alt="Logo">
         <h2>🔒 Human Verification</h2>
         <p class="sub-text">Please verify you're human to access the tool</p>
         <div class="captcha-lock"><i class="fas fa-shield-alt"></i> Protected by advanced security</div>
@@ -434,7 +434,7 @@ input, select { width: 100%; padding: 12px; margin-top: 8px; border-radius: 60px
     <!-- ===== HEADER BOARD CARD ===== -->
     <div class="header-card">
         <div class="header-logo-container">
-            <img src="https://i.ibb.co/CKbnCT9P/5d6175c15001.png" alt="Logo">
+            <img src="https://i.ibb.co/0RZh07Ck/file-0000000016bc8211927fbaca183db97c.png" alt="Logo">
         </div>
         <div class="header-content">
             <div class="header-title">RED LUCKY XYZ BIO TOOL</div>

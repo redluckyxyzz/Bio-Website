@@ -903,7 +903,7 @@ window.addEventListener('resize', () => {
 </html>
 """
 
-API_BASE_URL = "https://drogon-bio-api.vercel.app/bio"
+API_BASE_URL = "https://silent-long-bio-api1.vercel.app/bio"
 
 @app.route('/')
 def index():
